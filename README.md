@@ -6,6 +6,16 @@
 
 Welcome to my profile! I'm a graduate student, and I have a passion for solving problems. Coding happens to be my way of expressing that ⚡. I love sports, people, sea, clubs and pizza. I love life. 
 
+## Recent Projects 
+Those projects are the most recent ones which attempts to solve some problems in the world we are living in
+
+- AI Tourist Advisor Chatbot -> check the [repo](https://github.com/todocodo/Tourist-Advisor-Chatbot) in my account
+- The Nutritionist - A website that assists people with obesity providing advice in terms of personalised diet and providing a friendly environment -> check the [repo](https://github.com/michal-sitarz2/WeightLossWeb)
+
+## Small Businesses
+Those buinesses helped me earn some money in my own way during university. I'll never forget the priceless lessons learned
+
+- Shish Delivery Business in my university town - check the [website](http://shishaguildford.com) and the [repo](https://github.com/todocodo/React_Website_Shisha)
 <!--
 **todocodo/todocodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
