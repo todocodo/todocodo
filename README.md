@@ -10,7 +10,7 @@ Welcome to my profile! I'm a graduate student, and I have a passion for solving 
 Those are the most recent projects that seek to fix some of the world's problems.
 
 - AI Tourist Advisor Chatbot -> check the [repo](https://github.com/todocodo/Tourist-Advisor-Chatbot) in my account
-- The Nutritionist - A website that assists people with obesity providing advice in terms of personalised diet and providing a friendly environment -> check the [repo](https://github.com/michal-sitarz2/WeightLossWeb)
+- The Nutritionist - A website that assists people with obesity providing advice in terms of personalised diet and providing a friendly environment -> check the [repo](https://github.com/todocodo/WeightLoss-Web)
 
 ## Business Projects
 Those businesses helped me in earning money on my own during university. I'll never forget the invaluable lessons I gained.
