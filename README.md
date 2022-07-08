@@ -17,3 +17,5 @@ Those businesses helped me in earning money on my own during university. I'll ne
 
 - Shish Delivery Business in my university town - check the [website](http://shishaguildford.com) and the [repo](https://github.com/todocodo/React_Website_Shisha)
 - Karate Referee Recogniser - check the [DEMO](https://www.linkedin.com/feed/update/urn:li:activity:6943497225213767680/) of the system. Because it is being used for a startup project, the code for that system is kept confidential.
+
+![karate-referee-recogniser](https://github.com/todocodo/todocodo/blob/main/images/Karate_Tech_Demo.gif)
