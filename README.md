@@ -16,6 +16,6 @@ Those are the most recent projects that seek to fix some of the world's problems
 Those businesses helped me in earning money on my own during university. I'll never forget the invaluable lessons I gained.
 
 - Shish Delivery Business in my university town - check the [website](http://shishaguildford.com) and the [repo](https://github.com/todocodo/React_Website_Shisha)
-- Karate Referee Recogniser - check the [DEMO](https://www.linkedin.com/feed/update/urn:li:activity:6943497225213767680/) of the system. Because it is being used for a startup project, the code for that system is kept confidential.
+- Karate Referee Recogniser - check the [DEMO](https://www.linkedin.com/feed/update/urn:li:activity:6943497225213767680/) of the system and the [repo](https://github.com/todocodo/Karate-Referee-Sign-Recognizer)
 
 ![karate-referee-recogniser](https://github.com/todocodo/todocodo/blob/main/images/Karate_Tech_Demo.gif)
