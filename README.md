@@ -4,16 +4,17 @@
 [![Instagram Badge](https://img.shields.io/badge/-@ranchevv-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ranchevv/)](https://instagram.com/ranchevv/)
 [![Gmail Badge](https://img.shields.io/badge/-tnranchev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tnranchev@gmail.com)](mailto:tnranchev@gmail.com)
 
-Welcome to my profile! I'm a graduate student, and I have a passion for solving problems. Coding happens to be my way of expressing that ⚡. Recently, I got hooked into AI, aaaaand I did some cool projects in that field 🤖. I love sports, people, sea, clubs and pizza. I love life. 
+Founder with a computer science background, focused on building and scaling B2B SaaS products.
+I care about solving real problems at the intersection of technology, product, and go-to-market, and I enjoy turning messy workflows into simple, usable systems.
 
-## Recent Projects 
-Those are the most recent projects that seek to fix some of the world's problems.
+## TalentSight 
+[TalentSight] (https://talsight.com/) is a B2B SaaS platform helping recruiting teams automate and scale LinkedIn outbound without losing control or authenticity.
 
-- AI Tourist Advisor Chatbot -> check the [repo](https://github.com/todocodo/Tourist-Advisor-Chatbot) in my account
-- The Nutritionist - A website that assists people with obesity providing advice in terms of personalised diet and providing a friendly environment -> check the [repo](https://github.com/todocodo/WeightLoss-Web)
+Built and scaled the product from idea to 6-figure ARR in 2 years
+This has been my main professional focus over the past years and the place where I combined engineering thinking with customer-facing problem solving.
 
-## Business Projects
-Those businesses helped me in earning money on my own during university. I'll never forget the invaluable lessons I gained.
+## Personal Projects
+Projects I built to explore ideas, learn by doing, and solve concrete problems.
 
 - Shish Delivery Business in my university town - check the [website](http://shishaguildford.com) and the [repo](https://github.com/todocodo/React_Website_Shisha)
 - Karate Referee Recogniser - check the [DEMO](https://www.linkedin.com/feed/update/urn:li:activity:6943497225213767680/) of the system and the [repo](https://github.com/todocodo/Karate-Referee-Sign-Recognizer) - check the gif below ⬇ 
