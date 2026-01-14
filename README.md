@@ -8,7 +8,7 @@ Founder with a computer science background, focused on building and scaling B2B 
 I care about solving real problems at the intersection of technology, product, and go-to-market, and I enjoy turning messy workflows into simple, usable systems.
 
 ## TalentSight 
-[TalentSight] (https://talsight.com/) is a B2B SaaS platform helping recruiting teams automate and scale LinkedIn outbound without losing control or authenticity.
+[TalentSight](https://talsight.com) is a B2B SaaS platform helping recruiting teams automate and scale LinkedIn outbound without losing control or authenticity.
 
 Built and scaled the product from idea to 6-figure ARR in 2 years
 This has been my main professional focus over the past years and the place where I combined engineering thinking with customer-facing problem solving.
