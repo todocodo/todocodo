@@ -14,7 +14,7 @@ Built and scaled the product from idea to 6-figure ARR in 2 years
 This has been my main professional focus over the past years and the place where I combined engineering thinking with customer-facing problem solving.
 
 ## Personal Projects
-Projects I built to explore ideas, learn by doing, and solve concrete problems.
+Projects I built to explore ideas, learn by doing, and solve concrete problems (mainly during my time in university).
 
 - Shish Delivery Business in my university town - check the [website](http://shishaguildford.com) and the [repo](https://github.com/todocodo/React_Website_Shisha)
 - Karate Referee Recogniser - check the [DEMO](https://www.linkedin.com/feed/update/urn:li:activity:6943497225213767680/) of the system and the [repo](https://github.com/todocodo/Karate-Referee-Sign-Recognizer) - check the gif below ⬇ 
